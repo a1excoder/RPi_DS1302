@@ -34,6 +34,10 @@ https://github.com/ksaye/IoTDemonstrations/blob/master/RTC_DS1302/RTC_DS1302.py
 ### public guide that I found
 https://kevinsaye.wordpress.com/2017/12/22/adding-an-ds1302-to-a-raspberry-pi-zero-w/
 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/a1excoder/RPi_DS1302/main/ds1302.jpg"/>
+</p>
+
 ## usage example
 ```python
 from datetime import datetime
