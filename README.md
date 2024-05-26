@@ -1,5 +1,5 @@
 # RPi_DS1302
-Python library for working with DS1302
+Python library for working with DS1302 for Raspberry Pi
 
 ## The main part of the source code is taken from here
 ```
